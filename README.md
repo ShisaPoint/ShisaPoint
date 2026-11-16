@@ -169,4 +169,4 @@ ShisaPoint is free. Tips are optional and go toward keeping it going: [ko-fi.com
 
 ## License
 
-[MIT](LICENSE). Copyright (c) 2026 Ryan Thompson.
+[MIT](LICENSE). Copyright (c) 2026 Ryan K Thompson.
