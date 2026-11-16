@@ -42,7 +42,7 @@ Secure mode uses Windows DPAPI, tied to your Windows account on this PC. `sugges
 
 ## Install
 
-Download the exe from the Releases page: [download link]
+Download the exe from the [Releases page](https://github.com/ShisaPoint/ShisaPoint/releases/latest): [ShisaPoint.exe](https://github.com/ShisaPoint/ShisaPoint/releases/latest/download/ShisaPoint.exe)
 
 It runs on Windows 10 and 11. Put `ShisaPoint.exe` in a folder of its own. On first run it writes `config.json` next to the exe, and it saves snapshots under `%USERPROFILE%\ShisaPoint\snapshots`. The log is `%USERPROFILE%\ShisaPoint\shisapoint.log`.
 
