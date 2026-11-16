@@ -46,7 +46,7 @@ Download the exe from the [Releases page](https://github.com/ShisaPoint/ShisaPoi
 
 It runs on Windows 10 and 11. Put `ShisaPoint.exe` in a folder of its own. On first run it writes `config.json` next to the exe, and it saves snapshots under `%USERPROFILE%\ShisaPoint\snapshots`. The log is `%USERPROFILE%\ShisaPoint\shisapoint.log`.
 
-Windows SmartScreen may warn that the app is unrecognized, because the exe is not code-signed yet. If you trust the download, choose More info, then Run anyway.
+Windows SmartScreen may warn that the app is unrecognized, because the exe is not code-signed yet. If you trust the download, choose More info, then Run anyway. Our first tip goal is a code-signing certificate, so that warning goes away.
 
 ## Connecting your AI assistant
 
@@ -166,6 +166,8 @@ Questions, bugs, or suggestions: [support@shisapoint.com](mailto:support@shisapo
 ## Tip jar
 
 ShisaPoint is free. Tips are optional and go toward keeping it going: [ko-fi.com/shisapoint](https://ko-fi.com/shisapoint)
+
+First tip goal: a code-signing certificate, so Windows stops warning about the download.
 
 ## License
 
