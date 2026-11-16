@@ -1,0 +1,39 @@
+# Build artifacts
+build/
+dist/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+
+# Runtime / local state (never commit these)
+config.json
+meta.json
+markup.json
+suggestions.json
+*.log
+snapshots/
+sessions/
+follow/
+.follow_last.txt
+.follow_session.txt
+
+# Backups and local scratch
+*.bak
+*~
+*.tmp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Local Wine / packaging env (if present)
+.wine-lens/
+.wine-bin/

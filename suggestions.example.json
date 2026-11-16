@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "items": [
+    {"text": "Consider closing the parenthesis on line 3.", "anchor": [420, 188], "ttl_seconds": 30},
+    {"text": "Looks good so far - keep going.", "ttl_seconds": 20}
+  ]
+}
